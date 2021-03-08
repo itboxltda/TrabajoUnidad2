@@ -26,7 +26,7 @@ cd pentestlab
 # Imprima una lista completa de proyectos disponibles use el comando list
 ./pentestlab.sh list 
 
-# Ejecutar solo el script imprimirá información de ayuda
+# Ejecutar el script sin comandos imprimirá información de ayuda
 ./pentestlab.sh 
 ```
 
